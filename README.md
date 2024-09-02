@@ -16,7 +16,7 @@
 
 ## Demo
 
-You can view a live demo of the AddCart app [here](https://your-demo-link.com).
+You can view a live demo of the AddCart app [here]([https://your-demo-link.com](https://najahaja.github.io/addCartApp/)).
 
 ## Installation
 
@@ -34,4 +34,4 @@ Follow these steps to run the project locally:
     npm install
 4.**Start the development server:**
 
-  npm run dev
+     npm run dev
