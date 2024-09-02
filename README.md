@@ -16,7 +16,7 @@
 
 ## Demo
 
-You can view a live demo of the AddCart app [here]([https://your-demo-link.com](https://najahaja.github.io/addCartApp/)).
+You can view a live demo of the AddCart app [here](https://najahaja.github.io/addCartApp/).
 
 ## Installation
 
