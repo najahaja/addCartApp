@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/64adfe8b-0b2d-472d-b8b3-4da974f7ef59/deploy-status)](https://app.netlify.com/sites/addcartap/deploys)
 # AddCart Web App
 
 ![AddCart Logo](./Screenshot%20(1766).png)
